@@ -49,7 +49,7 @@ listeDesAttaques = "feu, eau, volt, pierre"
 print("Voici les attaques disponibles : {}".format(listeDesAttaques))
 
 #dommage des attaques
-feu = 25
+feu = 00
 eau = 05
 volt = 19
 pierre = 6
